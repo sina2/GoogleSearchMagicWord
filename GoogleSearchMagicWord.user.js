@@ -4,7 +4,8 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        https://www.google.co.jp/search?*
+// @match        https://www.google.co.jp/search?q=*
+// @match        https://www.google.com/search?q=*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==
